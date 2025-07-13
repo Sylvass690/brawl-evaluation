@@ -1,2 +1,2 @@
 # brawl-evaluation
-Historic Brawl evaluation using custom model
+Historic Brawl card and deck evaluation using custom models
